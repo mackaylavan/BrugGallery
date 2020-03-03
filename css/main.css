@@ -126,13 +126,13 @@ a{
     padding:0px 25px;
 }
 #hero{
-    background-image: url(../img/hero2.jpg),url(../img/hero1.jpg) center no-repeat;
+    background-image: url(../img/hero2.jpg) center no-repeat;
     background-size: cover;
     background-color: #000;
     height: 100vh;
 }
 .animate{
-    background: url(../img/hero2.jpg), url(../img/hero1.jpg) center no-repeat;
+    background: url(../img/hero2.jpg) center no-repeat;
 }
 #hero h1{
     font-size: 4em;
